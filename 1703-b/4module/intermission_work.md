@@ -75,6 +75,11 @@
 * Reflection Gist: https://gist.github.com/rwilhel/104ff9f427f6b9165a40ee84158d1842
 * Sorting Suite Repo: https://github.com/rwilhel/sorting_suite_js
 
+## Riley Thompson
+
+* Reflection Gist: https://gist.github.com/ryt11/f6cc9a5629135a84aed056f9665b8227
+* Sorting Suite: https://github.com/ryt11/intermission-js-sort-algos
+
 ## Sarah Kirk
 
 * Reflection Gist: https://gist.github.com/sarahdactyl71/5b4e852891f977cec6b2d09e5d641e13
